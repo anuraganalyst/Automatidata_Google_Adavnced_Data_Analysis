@@ -12,5 +12,26 @@ To Develop a Regression Model that helps estimate taxi fares before the ride, ba
 Python
 
 # Datasets
-[2017_Yellow_Taxi_Trip_Data]()
-[nyc_pred_means]()
+[2017_Yellow_Taxi_Trip_Data](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/2017_Yellow_Taxi_Trip_Data%20(1).csv  )
+[nyc_pred_means](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/nyc_preds_means.csv)
+
+# Insights
+The model reveals that for every mile travelled the fare increases by $2. Or for every 3.57 miles travelled, the fare increases by $7.13.
+
+The model provides a generally strong and reliable fare prediction that can be used in downstream modeling efforts.
+
+These findings can be used to create an app that allows NYC TLC riders to see the estimated fare before their ride begins. Model Metrics: Model metrics:
+
+R-squared 0.868: This means that 86.8% of the variance is described by the model.
+
+MAE 2.13
+
+MSE: 14.34
+
+RMSE 3.8
+
+[Executive summary on Initial Data Exploration]()
+[Executive summary on Exploratory Data Analysis]()
+[Executive summary on Hypothesis Testing]()
+[Executive summary on Regression Analysis]()
+[Executive summary on Model Development]()
