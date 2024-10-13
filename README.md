@@ -30,8 +30,12 @@ MSE: 14.34
 
 RMSE 3.8
 
-[Executive summary on Initial Data Exploration]()
-[Executive summary on Exploratory Data Analysis]()
-[Executive summary on Hypothesis Testing]()
-[Executive summary on Regression Analysis]()
-[Executive summary on Model Development]()
+[Executive summary on Initial Data Exploration](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/Part%201_Initial%20Data%20Exploration_executive_summary.pptx  )
+
+[Executive summary on Exploratory Data Analysis](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/Part%202_Exploratory%20Data%20Analysis_executive_summary.pptx  )
+
+[Executive summary on Hypothesis Testing](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/Part%203_Hypothesis%20Testing_executive_summary.pptx  )
+
+[Executive summary on Regression Analysis](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/Part%204_Regression%20Analysis_executive_summary.pptx    )
+
+[Executive summary on Model Development](https://github.com/anuraganalyst/Automatidata_Google_Adavnced_Data_Analysis/blob/main/Part%205_Model%20Development_executive_summary.pptx)
