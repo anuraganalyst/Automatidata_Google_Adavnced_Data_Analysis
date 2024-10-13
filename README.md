@@ -10,4 +10,7 @@ To Develop a Regression Model that helps estimate taxi fares before the ride, ba
 
 # Tool used
 Python
+
 # Datasets
+[2017_Yellow_Taxi_Trip_Data]()
+[nyc_pred_means]()
